@@ -1,0 +1,10 @@
+Selected topic: Has covid-19 changed food consumption habits, and could economists have predicted this shift through analyzing social media and trend data?
+Data sources: 
+- Google Trends
+- Twitter and/or instagram Hashtag history
+- Reddit
+- YouTube
+data collection methods:
+- pytrends: will ne a new form of data extraction for me - learning opportunity
+- Twitter API - approved
+
